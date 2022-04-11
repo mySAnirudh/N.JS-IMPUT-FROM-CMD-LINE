@@ -1,0 +1,11 @@
+
+
+
+    *** Input from Command Line ***
+
+    1/ Set Input from Command Line
+    2/ Create file with Input
+    3/ Delete the file with Input
+
+   We can ste the fiel 
+    
